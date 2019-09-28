@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Created-By: The Cyber Protocol
+SplashScreen-Image: splash.jpg
+Main-Class: notepad.notepad
+
